@@ -1,8 +1,8 @@
     body {background-color: #f5f5dc;background-image: url(icon.webp);background-size: 200px;}
     .header h2 {background-color: chartreuse;font-family: 'Aoboshi One', serif;font-weight: 400;}
     .main1 {background-color: blanchedalmond;background-image: url(icon.webp);background-size: 200px;padding: 10px 0;}
-    .moji, a {font-family: 'Shippori Antique', sans-serif;font-weight: 400;color: red;}
-    footer p {height: 30px;background-image: url(Tomaitu_Mania-removebg-preview.png);background-size: 200px;text-align: center;padding: 10px 0;background-color: rebeccapurple;color: #fff;font-family: 'M PLUS 1 Code', monospace;font-weight: 200;}
+    .moji, a {color: red;}
+    footer p {height: 30px;background-image: url(Tomaitu_Mania-removebg-preview.png);background-size: 200px;text-align: center;padding: 10px 0;background-color: rebeccapurple;color: #fff;}
     table {border-collapse: collapse;border: 2px solid rgb(140, 140, 140);font-family: sans-serif;font-size: 0.8rem;letter-spacing: 1px;}
     th, td {border: 1px solid rgb(160, 160, 160);padding: 8px 10px;}
     td:last-of-type {text-align: center;}
