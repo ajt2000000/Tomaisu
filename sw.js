@@ -7,6 +7,7 @@ const urlsToCache = [
   'index.html',
   'icon.webp',
   'js/jquery.min.js',
+  'style.css',
   'tr.webp'
 ];
 
