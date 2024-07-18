@@ -1,6 +1,6 @@
-    body {background-color: #f5f5dc;background-image: url(iy.webp);background-size: 120px;}
+    body {background-color: #f5f5dc;background-image: url(iy.webp);background-size: 90px;}
     .header h2 {background-color: chartreuse;font-family: 'Aoboshi One', serif;font-weight: 400;}
-    .main1 {background-color: blanchedalmond;background-image: url(iy.webp);background-size: 200px;padding: 10px 0;}
+    .main1 {background-color: blanchedalmond;background-image: url(iy.webp);background-size: 90px;padding: 10px 0;}
     .moji, a {color: red;}
     table {border-collapse: collapse;border: 2px solid rgb(140, 140, 140);font-family: sans-serif;font-size: 0.8rem;letter-spacing: 1px;}
     th, td {border: 1px solid rgb(160, 160, 160);padding: 8px 10px;}
