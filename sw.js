@@ -3,6 +3,7 @@ const CACHE_NAME = `${registration.scope}!${CACHE_VERSION}`;
 
 const urlsToCache = [
   '.',
+  'index.html',
   'icon.webp',
   'style.css',
   'tr.webp'
