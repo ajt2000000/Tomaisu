@@ -1,0 +1,4 @@
+plugins:
+  - jekyll-redirect-from
+_EOT_
+$ git add . && git commit -m "Add jekyll-redirect-from" && git push
